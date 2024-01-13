@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-four-card-mocha-chai-assert",
 	"version": "1.0.0",
-	"description": "four card feature section using mocha and chai testing with assert style",
+	"description": "four card feature section using mocha and chai with assert style",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
